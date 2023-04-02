@@ -1,0 +1,10 @@
+C:\Projetos\AndroidLogo\AndroidLogo\bin\Debug\AndroidLogo.exe.config
+C:\Projetos\AndroidLogo\AndroidLogo\bin\Debug\AndroidLogo.exe
+C:\Projetos\AndroidLogo\AndroidLogo\bin\Debug\AndroidLogo.pdb
+C:\Projetos\AndroidLogo\AndroidLogo\obj\Debug\AndroidLogo.csproj.AssemblyReference.cache
+C:\Projetos\AndroidLogo\AndroidLogo\obj\Debug\AndroidLogo.Form1.resources
+C:\Projetos\AndroidLogo\AndroidLogo\obj\Debug\AndroidLogo.Properties.Resources.resources
+C:\Projetos\AndroidLogo\AndroidLogo\obj\Debug\AndroidLogo.csproj.GenerateResource.cache
+C:\Projetos\AndroidLogo\AndroidLogo\obj\Debug\AndroidLogo.csproj.CoreCompileInputs.cache
+C:\Projetos\AndroidLogo\AndroidLogo\obj\Debug\AndroidLogo.exe
+C:\Projetos\AndroidLogo\AndroidLogo\obj\Debug\AndroidLogo.pdb
